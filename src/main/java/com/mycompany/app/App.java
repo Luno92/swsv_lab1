@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
     	String welcomeString = "Hello World!";
-    	welcomeString.toLowerCase();
-    	System.out.println(welcomeString);
+    	String lowerWelcomeString = welcomeString.toLowerCase();
+    	System.out.println(lowerWelcomeString);
     }
 }
