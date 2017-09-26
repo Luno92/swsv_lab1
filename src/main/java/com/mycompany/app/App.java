@@ -10,5 +10,6 @@ public class App
     {
     	String welcomeString = "Hello World!";
     	welcomeString.toLowerCase();
+    	System.out.println(welcomeString);
     }
 }
